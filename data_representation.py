@@ -174,5 +174,3 @@ if __name__ == '__main__':
     x = TwosComplementNumber("0111")
     print(int(x))
     print(int(~x))
-
-
